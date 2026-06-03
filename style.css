@@ -12,13 +12,15 @@ body > div {
     max-width: 736px;
     margin-inline: auto;
     background-color: #fff;
+    margin-block: 64px;
+    padding: 40px;
+    border-radius: 24px;
    
 }
-img {
+div img {
     width: 100%;
-    height: auto;
-    border-radius: 8px;
-    margin-bottom: 20px;
+    border-radius: 12px;
+    margin-bottom: 40px;
 }
 
 h1, h2 {
