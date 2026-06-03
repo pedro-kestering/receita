@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+}
+body {
+    background-color: #f3e5d7;
+   
+}
+body > div {
+    max-width: 736px;
+    margin-inline: auto;
+    background-color: #fff;
+   
+}
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+   font-family:'lora', serif;
+}
